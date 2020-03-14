@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+}
+button{
+  background-color: red;
+  width: 20%;
+  height: 100px;
+font-size: 5rem;
+margin-left: 61rem;
+}
+h2{
+  font-size: 3rem;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-top: 6rem;
+}
